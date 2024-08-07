@@ -1,2 +1,1 @@
-# register_form_reactjs
-Created with CodeSandbox
+# register_form_reactjs with validation
